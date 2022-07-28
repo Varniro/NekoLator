@@ -1,1 +1,1 @@
-My learning project for Reactive Native, A cat themed Calculator for android!
+My learning project for React Native, A cat themed Calculator for android!
